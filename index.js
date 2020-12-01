@@ -1,4 +1,3 @@
-//https://repl.it/@zohminga/Avengers-Quiz?embed=1&output=1
 const chalk = require('chalk')
 console.log(
   chalk
